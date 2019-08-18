@@ -2,10 +2,6 @@
 A two row academic CV template
 
 
-# modern-simple-cv
-A LaTeX template for a modern simple academic CV with two columns
-
-
 *Image credits for the example images goes to Disney!*
 
 These images are in the CV just for demonstration.
