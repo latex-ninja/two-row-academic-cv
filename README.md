@@ -11,7 +11,13 @@ Please replace them with your own photos and logos if you use this template!
 
 ![Two Row Academic CV](https://github.com/latex-ninja/two-row-academic-cv/blob/master/two-row-academic-cv.png)
 
+# Preview 
 
+
+
+## Also check out the new One Row Academic CV
+![One Row Academic CV](https://github.com/latex-ninja/One-Row-Academic-CV/blob/master/onerow-academic-preview-1.png)
+[Get it here.](https://github.com/latex-ninja/One-Row-Academic-CV)
 
 # See also: Modern Simple CV
 ![Modern Simple CV](https://github.com/latex-ninja/hipster-cv/blob/master/previews/modern-simple-cv.png)
